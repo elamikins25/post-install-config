@@ -22,10 +22,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-
+- Item 1 Access Admin Panel,Navigate to your osTicket admin panel by going to `http://yourdomain.com/support/scp`. Use the admin credentials you set during installation to log in.
+- Item 2 Set Up Departments,**Navigate to Departments:** Go to the "Admin Panel" > "Manage" > "Departments." Create departments that align with your organization’s structure, e.g., Sales, Support, Billing.
+- Item 3 In the admin panel, navigate to "Emails" > "Email Settings."  Set up email accounts for each department. This includes configuring mail fetching (POP/IMAP) settings to ensure tickets are created from incoming emails.
+- Item 4 Go to "Admin Panel" > "Manage" > "Ticket Filters." Set up rules to automatically assign, prioritize, or route tickets based on criteria like keywords, department, or ticket source.
+- Item 5 Go to "Admin Panel" > "Manage" > "Help Topics."  Define help topics that users can choose when submitting tickets, making it easier to categorize and manage requests.
