@@ -28,4 +28,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 4
 - Item 5
 
-<h2>Configuration Steps</h2>
+
